@@ -1,7 +1,7 @@
 # Syncfusion Admin Dashboard
 
 ## Live Demo
-[https://your-website-link.com ](https://syncfusion-shoppy-dashboard.netlify.app/)
+[syncfusion shoppy dashboard](https://syncfusion-shoppy-dashboard.netlify.app/)
 
 ## Screenshots
 ![Admin Dashboard Screenshot](https://github.com/user-attachments/assets/cb709c59-64cc-4bee-98cf-b2ef08c30554)
